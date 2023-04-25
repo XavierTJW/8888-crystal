@@ -1,1 +1,1 @@
-# 8888-cyrstal https://XavierTJW.github.io/8888-cyrstal/
+# 8888-cyrstal https://XavierTJW.github.io/8888-crystal/
