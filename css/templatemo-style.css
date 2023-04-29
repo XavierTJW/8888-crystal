@@ -197,7 +197,8 @@ body {
   background-color: #FFD700;
   overflow-x: hidden;
 }
-
+h2, p{
+color:#FFD700}
 .container {
   background-color: #71706E;
 }
