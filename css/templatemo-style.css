@@ -8,6 +8,7 @@ https://templatemo.com/tm-539-simple-house
 ul, nav, body, h1, h2, h4, h6, p, figure {
   margin: 0;
   padding: 0;
+  color:#FFD700;
 }
 
 a, button { transition: all 0.3s ease; }
@@ -197,8 +198,6 @@ body {
   background-color: #FFD700;
   overflow-x: hidden;
 }
-h2, p{
-color:#FFD700}
 .container {
   background-color: #71706E;
 }
